@@ -1,0 +1,9 @@
+{
+	"id": "live-fold-sync",
+	"name": "Live Fold Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Syncs folded headings and lists between devices, including notes that are already open.",
+	"author": "Jimothy",
+	"isDesktopOnly": false
+}
